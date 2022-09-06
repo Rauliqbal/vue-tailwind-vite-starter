@@ -6,7 +6,7 @@ This template will help you start developing with Vue 3 and TailwindCSS in Vite,
 
 This starter template includes:
 
-- [Vite 3](https://vitejs.dev/guide/)
+- [Vite](https://vitejs.dev/guide/)
 - [Vue 3](https://vuejs.org/guide/introduction.html)
 - [Tailwind CSS 3](https://tailwindcss.com/docs/configuration)
 - [Vue Router](https://github.com/vuejs/router)
