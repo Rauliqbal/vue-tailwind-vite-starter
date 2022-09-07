@@ -14,6 +14,8 @@ This starter template includes:
 
 ### Getting Started
 
+Click Button Use This Template 
+
 ## Clone this repository
 ```
 git clone https://github.com/Rauliqbal/vue-tailwind-vite.git
