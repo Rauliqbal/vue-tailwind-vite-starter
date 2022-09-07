@@ -3,7 +3,6 @@
     <transition name="fade" mode="out-in">      
       <component :is="Component"/>
     </transition>
-    <Footer/>
   </router-view>
 </template>
 
