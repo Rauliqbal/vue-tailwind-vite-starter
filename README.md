@@ -1,6 +1,6 @@
 # Vue 3 + Tailwind + Vite
 
-![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
+![Vite, Vue 3, Tailwind CSS](https://github.com/Rauliqbal/rauliqbal/blob/main/certificate/Frame%201.png?raw=true)
 
 This template will help you start developing with Vue 3 and TailwindCSS in Vite, also comes with a Vue Router to create SPA (Single Page Application).
 
