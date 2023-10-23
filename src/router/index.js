@@ -7,12 +7,18 @@ const routes = [
     {
         path: "/",
         name: "Home",
-        component: Home
+        component: Home,
+        meta: {
+            title: "HomePage"
+        }
     },
     {
         path: "/about",
         name: "About",
-        component: About
+        component: About,
+        meta: {
+            title: "AboutPage"
+        }
     },
 ]
 
@@ -21,4 +27,8 @@ const router = createRouter({
     routes
 })
 
+router.beforeEach((to, from, next) => {
+    document.title = `${to.meta.title}`;
+    next();
+ });
 export default router
